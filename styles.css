@@ -1,0 +1,76 @@
+h2{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  padding: 2%;
+  
+}
+
+.navbar{
+  padding: 0;
+  background-color: black;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.container{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand{
+  margin: 0;
+  padding: 0 2% 0 0;
+    }
+
+.container-fluid{
+  padding: 0;
+}
+
+.logo-img{
+  width: 130px;
+  height: 60px;
+  text-align: center;
+}
+
+.fas{
+  color: white;
+  padding-right: 15px;
+}
+
+.body-img{
+  width: 100%;
+}
+
+.first-img{
+  padding: 0;
+}
+
+.rating-img-1{
+  width: 100%;
+  padding: 2% 0 2% 0;
+}
+
+.rating-img-2{
+  width: 80%;
+}
+
+.rating-img-3{
+  width: 60%;
+}
+
+.btn{
+  width: 70%;
+  position: relative;
+  right: 0px;
+  left: 70px;
+  margin-top: 2%;
+}
